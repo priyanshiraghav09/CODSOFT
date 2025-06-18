@@ -11,7 +11,7 @@ A basic implementation involves storing tasks in a list, providing options to in
 
 *Calculator* 💻🔢    
 A Python GUI calculator is a desktop application that allows users to perform arithmetic operations (like addition, subtraction, multiplication, division, etc.) using a graphical interface — usually with buttons for numbers and operators.  
-🛠 Technologies Used :  
+🎯 Technologies Used :  
 *Python:* The core programming language used to implement the logic.  
 *Tkinter:* The built-in GUI toolkit in Python. It is simple, lightweight, and widely used for desktop applications.
 
